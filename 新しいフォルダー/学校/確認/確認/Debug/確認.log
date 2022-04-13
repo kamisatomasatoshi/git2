@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\確認\確認\main.cpp(78,42): error C2143: 構文エラー: ')' が '定数' の前にありません。
+C:\Users\luri_\OneDrive\デスクトップ\確認\確認\main.cpp(78,42): error C2660: 'DxLib::GetColor': 関数に 1 個の引数を指定できません。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(4427,21): message : 'DxLib::GetColor' の宣言を確認してください
+C:\Users\luri_\OneDrive\デスクトップ\確認\確認\main.cpp(78,42): error C2660: 'DxLib::DrawFormatString': 関数に 2 個の引数を指定できません。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3586,14): message : 'DxLib::DrawFormatString' の宣言を確認してください
+C:\Users\luri_\OneDrive\デスクトップ\確認\確認\main.cpp(78,42): error C2143: 構文エラー: ';' が '定数' の前にありません。
+C:\Users\luri_\OneDrive\デスクトップ\確認\確認\main.cpp(78,46): error C2059: 構文エラー: ')'
+C:\Users\luri_\OneDrive\デスクトップ\確認\確認\main.cpp(78,88): error C2059: 構文エラー: ')'

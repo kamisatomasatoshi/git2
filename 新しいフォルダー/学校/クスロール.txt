@@ -1,0 +1,33 @@
+if (scroll_x < 1200)//スイッチ的な役割。
+		{
+			if (playerPosX >= scroll_line_x + 16 && CheckHitKey(KEY_INPUT_D))
+			{
+				playerPosX = scroll_line_x + 16;
+				if (scroll_x >= 1200)
+				{
+					scroll_x = 1200;//スクロールの最大の設定。右側
+				}
+				else
+				{
+					scroll_x += moveSpeed;//それ以外はスクロールできるようにする。
+				}
+			}
+		}
+
+		//反対側
+
+		if (0 < scroll_x)
+		{
+			if (playerPosX <= scroll_line_x + 16 && CheckHitKey(KEY_INPUT_A))
+			{
+				playerPosX = scroll_line_x + 16;
+				if (scroll_x <= 0)
+				{
+					scroll_x = 0;
+				}
+				else
+				{
+					scroll_x -= moveSpeed;
+				}
+			}
+		}

@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(66,3): warning C4838: 'float' から 'int' への変換には縮小変換が必要です
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(66,3): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(67,3): warning C4838: 'float' から 'int' への変換には縮小変換が必要です
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(67,3): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(68,3): warning C4838: 'float' から 'int' への変換には縮小変換が必要です
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(68,3): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(69,3): warning C4838: 'float' から 'int' への変換には縮小変換が必要です
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(69,3): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(70,3): warning C4838: 'float' から 'int' への変換には縮小変換が必要です
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(70,3): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(71,3): warning C4838: 'float' から 'int' への変換には縮小変換が必要です
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(71,3): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(72,3): warning C4838: 'float' から 'int' への変換には縮小変換が必要です
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(72,3): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(73,3): warning C4838: 'float' から 'int' への変換には縮小変換が必要です
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(73,3): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(121,89): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(121,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(137,3): warning C4060: switch ステートメントに 'case' または 'default' ラベルがありません。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(120,8): warning C4102: 'case0': ラベルは 1 度も参照されません。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(124,8): warning C4102: 'case1': ラベルは 1 度も参照されません。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(128,8): warning C4102: 'case2': ラベルは 1 度も参照されません。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\main.cpp(132,8): warning C4102: 'case3': ラベルは 1 度も参照されません。
+  チーム制作.vcxproj -> C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作\Debug\チーム制作.exe

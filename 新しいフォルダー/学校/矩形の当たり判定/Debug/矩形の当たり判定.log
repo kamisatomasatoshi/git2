@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\矩形の当たり判定\main.cpp(266,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\矩形の当たり判定\main.cpp(267,26): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\矩形の当たり判定\main.cpp(268,27): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\矩形の当たり判定\main.cpp(274,87): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\矩形の当たり判定\main.cpp(274,68): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\矩形の当たり判定\main.cpp(274,49): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\矩形の当たり判定\main.cpp(274,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\矩形の当たり判定\main.cpp(280,90): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\矩形の当たり判定\main.cpp(280,70): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\矩形の当たり判定\main.cpp(280,50): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\矩形の当たり判定\main.cpp(280,31): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  矩形の当たり判定.vcxproj -> C:\Users\luri_\OneDrive\デスクトップ\矩形の当たり判定\Debug\矩形の当たり判定.exe

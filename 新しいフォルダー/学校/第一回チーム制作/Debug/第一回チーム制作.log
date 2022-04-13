@@ -1,0 +1,38 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.h(9,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'obj' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.h(24,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'obj2' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(588,16): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(587,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(593,16): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(592,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(598,16): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(597,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(603,16): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(602,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(608,16): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(607,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(613,16): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(612,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(618,16): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(617,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(624,15): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(623,19): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(626,37): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(626,29): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(902,68): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(902,62): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(902,56): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(902,52): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(902,42): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(902,32): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(902,22): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(936,69): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(936,63): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(936,57): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(936,53): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(936,43): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(936,33): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(936,23): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(1067,46): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\main.cpp(1067,19): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  第一回チーム制作.vcxproj -> C:\Users\luri_\OneDrive\デスクトップ\第一回チーム制作\Debug\第一回チーム制作.exe

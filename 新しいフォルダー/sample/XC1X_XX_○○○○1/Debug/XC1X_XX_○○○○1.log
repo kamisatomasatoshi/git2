@@ -1,0 +1,209 @@
+﻿  boomerang.cpp
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(80,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'ATK' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(93,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'ENEMY' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(105,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Bullet' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boomerang.cpp(28,29): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boomerang.cpp(63,37): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boomerang.cpp(68,33): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boomerang.cpp(106,76): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boomerang.cpp(107,76): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boomerang.cpp(115,37): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boomerang.cpp(118,38): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boomerang.cpp(126,76): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boomerang.cpp(127,76): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  boss.cpp
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(80,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'ATK' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(93,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'ENEMY' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(105,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Bullet' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boss.cpp(643,45): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boss.cpp(644,45): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boss.cpp(655,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boss.cpp(656,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boss.cpp(666,39): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boss.cpp(669,40): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boss.cpp(673,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\boss.cpp(674,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  hit.cpp
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(80,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'ATK' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(93,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'ENEMY' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(105,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Bullet' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\hit.cpp(126,33): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\hit.cpp(135,41): warning C4244: '=': 'const int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\hit.cpp(164,41): warning C4244: '=': 'const int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\hit.cpp(202,41): warning C4244: '=': 'const int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\hit.cpp(231,41): warning C4244: '=': 'const int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\hit.cpp(265,158): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\hit.cpp(268,164): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\hit.cpp(271,161): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\hit.cpp(278,40): warning C4244: '=': 'const int' から 'float' への変換です。データが失われる可能性があります。
+  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(80,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'ATK' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(93,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'ENEMY' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(105,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Bullet' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\variable.h(135,23): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\variable.h(211,1): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\variable.h(290,1): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(146,12): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(238,27): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(322,26): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(366,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(370,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(374,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(375,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(383,109): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(389,109): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(403,109): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(408,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(412,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(413,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(427,109): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(432,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(436,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(437,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(451,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(454,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(458,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(459,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(496,65): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(497,65): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(667,61): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(667,28): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(682,35): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(693,99): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(693,65): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(693,36): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(698,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(697,33): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(696,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(695,40): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(704,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(703,38): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(702,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(701,40): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(714,67): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(714,37): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(718,57): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(717,34): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(716,57): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(715,41): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(723,57): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(722,39): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(721,57): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(720,41): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(742,33): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(741,33): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(740,33): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(753,35): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(752,35): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(757,36): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(756,36): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(762,36): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(761,35): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(767,36): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(766,35): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(782,129): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(782,96): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(782,63): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(782,33): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(783,129): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(783,99): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(783,69): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(783,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(784,135): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(784,102): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(784,69): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(784,36): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(787,131): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(787,98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(787,65): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(787,35): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(790,137): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(790,104): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(790,71): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(790,38): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(793,131): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(793,101): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(793,71): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(793,38): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(813,29): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(816,87): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(816,47): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(826,44): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(826,24): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(827,44): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(827,24): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(828,87): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(828,72): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(828,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(828,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(829,87): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(829,72): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(829,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(829,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(830,87): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(830,62): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(830,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(830,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(831,87): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(831,62): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(831,42): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(831,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(833,34): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(834,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(834,24): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(835,41): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(835,24): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(836,77): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(836,62): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(836,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(836,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(837,77): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(837,62): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(837,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(837,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(838,77): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(838,52): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(838,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(838,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(839,77): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(839,52): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(839,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(839,22): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(856,79): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(856,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(859,79): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(859,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(869,79): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(869,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(872,79): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(872,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(879,69): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(879,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(882,69): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(882,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(888,30): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(891,30): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(895,79): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(895,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(899,69): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(899,39): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(931,36): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(936,37): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(948,29): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(954,20): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(969,83): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(968,24): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\main.cpp(967,37): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  shield.cpp
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(80,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'ATK' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(93,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'ENEMY' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\structure.h(105,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Bullet' の左辺を無視します。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\shield.cpp(24,37): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\shield.cpp(27,45): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\shield.cpp(28,45): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\shield.cpp(29,45): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\shield.cpp(30,45): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\shield.cpp(70,38): warning C4805: '==': 演算中の 'int' 型と 'bool' 型の混用は安全ではありません
+C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\shield.cpp(86,37): warning C4244: '=': 'const int' から 'float' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  XC1X_XX_○○○○1.vcxproj -> C:\Users\luri_\OneDrive\デスクトップ\sample\XC1X_XX_○○○○1\Debug\XC1X_XX_○○○○1.exe

@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(216,11): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(443,30): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(444,30): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(551,60): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(552,60): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(563,60): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(564,60): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(575,60): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(576,60): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(682,57): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(683,57): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(766,55): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\評価課題\main.cpp(766,28): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  評価課題.vcxproj -> C:\Users\luri_\OneDrive\デスクトップ\ゲーム絵\評価課題\Debug\評価課題.exe

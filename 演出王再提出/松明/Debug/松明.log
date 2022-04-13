@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\松明\main.cpp(132,27): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\松明\main.cpp(145,24): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\松明\main.cpp(208,71): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\松明\main.cpp(208,46): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\松明\main.cpp(208,23): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\松明\main.cpp(208,11): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\松明\main.cpp(227,55): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\松明\main.cpp(227,41): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\松明\main.cpp(227,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  松明.vcxproj -> C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\松明\Debug\松明.exe

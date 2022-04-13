@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\エフェクト\Easing\main.cpp(103,41): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\エフェクト\Easing\main.cpp(103,33): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\エフェクト\Easing\main.cpp(124,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\エフェクト\Easing\main.cpp(124,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\エフェクト\Easing\main.cpp(124,17): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\エフェクト\Easing\main.cpp(124,11): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\エフェクト\Easing\main.cpp(125,32): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\エフェクト\Easing\main.cpp(125,25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\エフェクト\Easing\main.cpp(125,18): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\エフェクト\Easing\main.cpp(125,11): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Easing.vcxproj -> C:\Users\luri_\OneDrive\デスクトップ\エフェクト\Easing\Debug\Easing.exe

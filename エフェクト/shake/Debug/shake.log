@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\shake\main.cpp(5,7): error C2628: 'SHAKE' の後に 'char' を続けて記述できません(セミコロン ';' で区切ってあるか確認してください)。
+C:\Users\luri_\OneDrive\デスクトップ\shake\main.cpp(5,12): error C2079: 'TITLE' が 未定義の class 'SHAKE' で使用しています。
+C:\Users\luri_\OneDrive\デスクトップ\shake\main.cpp(5,56): error C2440: '初期化中': 'const char [23]' から 'int' に変換できません。
+C:\Users\luri_\OneDrive\デスクトップ\shake\main.cpp(5,20): message : この変換が可能なコンテキストはありません。
+C:\Users\luri_\OneDrive\デスクトップ\shake\main.cpp(23,25): error C2664: 'int DxLib::SetMainWindowText(const TCHAR *)': 引数 1 を 'int' から 'const TCHAR *' へ変換できません。
+C:\Users\luri_\OneDrive\デスクトップ\shake\main.cpp(23,20): message : 整数型からポインター型への変換には reinterpret_cast、C スタイル キャストまたは関数スタイル キャストが必要です。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxFunctionWin.h(75,14): message : 'DxLib::SetMainWindowText' の宣言を確認してください

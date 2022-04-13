@@ -1,0 +1,75 @@
+TEST    START
+        LD GR1,KAZU
+        RET
+KAZU    DC 5
+        END
+
+
+/////////////////////////////////
+
+TEST    START
+        LD GR1,KAZU
+        LD GR2,GR1
+        RET
+KAZU    DC 3
+
+        END
+
+
+//////////////////////////////////
+TEST    START
+        LD GR0,KAZU0
+        LD GR1,KAZU1
+        LD GR2,KAZU2
+        LD GR3,KAZU3
+        LD GR4,KAZU4
+        LD GR5,KAZU5
+        LD GR6,KAZU6
+        LD GR7,KAZU7
+        RET
+KAZU0   DC 0
+KAZU1   DC 1
+KAZU2   DC 2
+KAZU3   DC 3
+KAZU4   DC 4
+KAZU5   DC 5
+KAZU6   DC 6
+KAZU7   DC 7
+
+        END
+
+
+////////////////////////////////////
+
+
+
+
+
+
+
+
+TEST    START
+        LD GR0,KAZU1
+        LD GR1,KAZU2
+        LD GR2,KAZU3
+        LD GR3,KAZU4
+        LD GR4,KAZU5
+
+        LD GR5,GR4
+        LD GR4,GR0
+        LD GR0,GR5
+
+        LD GR5,GR1
+        LD GR1,GR3
+        LD GR3,GR5
+
+        RET
+
+KAZU1   DC 1
+KAZU2   DC 2
+KAZU3   DC 3
+KAZU4   DC 4
+KAZU5   DC 5
+
+
+        END

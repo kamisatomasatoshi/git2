@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作2\main.cpp(76,113): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作2\main.cpp(76,45): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  チーム制作2.vcxproj -> C:\Users\luri_\OneDrive\デスクトップ\a\チーム制作2\Debug\チーム制作2.exe

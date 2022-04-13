@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\main.cpp(131,27): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\main.cpp(144,24): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\main.cpp(207,71): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\main.cpp(207,46): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\main.cpp(207,23): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\main.cpp(207,11): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\main.cpp(225,55): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\main.cpp(225,41): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\main.cpp(225,27): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\main.cpp(226,68): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\main.cpp(226,54): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\main.cpp(226,29): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  二回目チーム制作.vcxproj -> C:\Users\luri_\OneDrive\デスクトップ\新しいフォルダー\第二回チーム制作\二回目チーム制作\Debug\二回目チーム制作.exe

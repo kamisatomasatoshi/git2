@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+float player_posx = 200;
+float player_posy = 200;
+float player_speed = 5;
+float player_move = 0;
+int player_size = 32;
+
+
+
+
+
+if (CheckHitKey(KEY_INPUT_A) || CheckHitKey(KEY_INPUT_D))
+		{
+			if (CheckHitKey(KEY_INPUT_W) || CheckHitKey(KEY_INPUT_S))
+			{
+				move = 0.7f;//移動係数を0.71に設定
+			}
+			else
+			{
+				move = 1.0f;//斜めじゃなければ1.0に設定
+			}
+		}
+
+		else if (CheckHitKey(KEY_INPUT_W) || CheckHitKey(KEY_INPUT_S))
+		{
+			move = 1.0f;
+		}
+
+		if (CheckHitKey(KEY_INPUT_A) && playerPosX >= 0 + size)
+		{
+			playerPosX -= moveSpeed * move;
+		}
+		
+
+		if (CheckHitKey(KEY_INPUT_D) && playerPosX <= 600)
+		{
+			playerPosX += moveSpeed * move;
+		}
+		
+
+		if (CheckHitKey(KEY_INPUT_W) && playerPosY >= 0 + size)
+		{
+			playerPosY -= moveSpeed * move;
+		}
+
+		if (CheckHitKey(KEY_INPUT_S) && playerPosY <= WIN_HEIGHT)
+		{
+			playerPosY += moveSpeed * move;
+		}

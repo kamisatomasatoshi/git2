@@ -1,0 +1,22 @@
+if (playerPosX <= 100  && screen_flag_legth == 1
+{
+playerPosX =1200-;
+screen1_posx += screen_speed;
+screen2_posx += screen_speed;
+if (screen1_posx == 0);
+{
+screen1_posx = 0;
+screen2_posx = 600;
+}
+}	
+if (playerPosX > 500 && screen_flag_rigth == 1)
+{
+playerPosX = 500;
+screen1_posx -= screen_speed;
+screen2_posx -= screen_speed;
+if (screen2_posx == 0)
+{
+screen1_posx = -600;
+screen2_posx = 0;
+}
+}		

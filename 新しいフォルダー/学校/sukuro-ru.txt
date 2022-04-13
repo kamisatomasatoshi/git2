@@ -1,0 +1,228 @@
+#include "DxLib.h"
+
+// ウィンドウのタイトルに表示する文字列
+const char TITLE[] = "学籍番号 LC1A_10_カミサトマサトシ";
+
+// ウィンドウ横幅
+const int WIN_WIDTH = 600;
+
+// ウィンドウ縦幅
+const int WIN_HEIGHT = 400;	
+
+int WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _In_ LPSTR lpCmdLine, _In_ int nCmdShow)
+{
+	// ウィンドウモードに設定
+	ChangeWindowMode(TRUE);
+
+	// ウィンドウサイズを手動では変更させず、
+	// かつウィンドウサイズに合わせて拡大できないようにする
+	SetWindowSizeChangeEnableFlag(FALSE, FALSE);
+
+	// タイトルを変更
+	SetMainWindowText(TITLE);
+
+	// 画面サイズの最大サイズ、カラービット数を設定(モニターの解像度に合わせる)
+	SetGraphMode(WIN_WIDTH, WIN_HEIGHT, 32);
+
+	// 画面サイズを設定(解像度との比率で設定)
+	SetWindowSizeExtendRate(1.0);
+
+	// 画面の背景色を設定する
+	SetBackgroundColor(0x00, 0x00, 0xFF);			
+
+	// DXlibの初期化
+	if (DxLib_Init() == -1) { return -1; }
+
+	// (ダブルバッファ)描画先グラフィック領域は裏面を指定
+	SetDrawScreen(DX_SCREEN_BACK);
+
+	// 画像などのリソースデータの変数宣言と読み込み
+	int enn = 0;
+	enn = LoadGraph("機体/CircleW.png");
+	int enn1 = 0;
+	enn1 = LoadGraph("機体/CircleW.png");
+	int hitenn = 0;
+	hitenn= LoadGraph("機体/CircleWHit.png");
+	int hitenn1= 0;
+	hitenn1 = LoadGraph("機体/CircleWHit.png");
+	int screen1 = 0;
+	screen1 = LoadGraph("背景画像/haikei1.png");
+	int screen2 = 0;
+	screen2 = LoadGraph("背景画像/haikei2.png");
+	int screen3 = 0;
+	screen3 = LoadGraph("背景画像/haikei3.png");
+
+
+
+	// ゲームループで使う変数の宣言
+	int x = 300;
+	int y = 200;
+	int size = 32;
+	float playerPosX = 200;
+	float playerPosY = 200;
+	float moveSpeed = 5;
+	float move = 0;
+	int flag = 0;
+
+	int screen1_posx = 0;
+	int screen2_posx = 600;
+	int screen_posy = 0;
+	int screen_flag_rigth = 0;
+	int screen_flag_legth = 0;
+	int screen_speed = 5;
+
+	int scroll_x = 0;
+	int world_x = 0;
+	int local_x = 0;
+	int scroll_line_x = 300;
+	int scroll_line_y = 400;
+
+
+
+	// 最新のキーボード情報用
+	char keys[256] = { 0 };
+
+	// 1ループ(フレーム)前のキーボード情報
+	char oldkeys[256] = { 0 };
+
+	// ゲームループ
+	while (1)
+	{
+		// 最新のキーボード情報だったものは1フレーム前のキーボード情報として保存
+		// 最新のキーボード情報を取得
+		GetHitKeyStateAll(keys);
+		if (CheckHitKey(KEY_INPUT_A)|| CheckHitKey(KEY_INPUT_D))
+		{
+			if (CheckHitKey(KEY_INPUT_W)|| CheckHitKey(KEY_INPUT_S))
+			{
+				move = 0.7f;//移動係数を0.71に設定
+			}
+			else
+			{
+				move = 1.0f;//斜めじゃなければ1.0に設定
+			}
+		}
+
+		else if (CheckHitKey(KEY_INPUT_W) || CheckHitKey(KEY_INPUT_S))
+		{
+			move = 1.0f;
+		}
+
+		if (CheckHitKey(KEY_INPUT_A) && playerPosX >= 0 + size)
+		{
+			playerPosX -= moveSpeed * move;
+			screen_flag_legth = 1;
+		}
+		else
+		{
+			screen_flag_legth = 0;
+		}
+
+		if (CheckHitKey(KEY_INPUT_D) && playerPosX + 5 <= 600)
+		{
+			playerPosX += moveSpeed * move;
+			screen_flag_rigth = 1;
+		}
+		else
+		{
+			screen_flag_rigth = 0;
+		}
+
+		if (CheckHitKey(KEY_INPUT_W) && playerPosY >= 0 + size)
+		{
+			playerPosY -= moveSpeed * move;
+		}
+
+		if (CheckHitKey(KEY_INPUT_S) && playerPosY + 5 <= WIN_HEIGHT)
+		{
+			playerPosY += moveSpeed * move;
+		}
+		// 画面クリア
+		ClearDrawScreen();
+		//---------  ここからプログラムを記述  ----------//
+
+		// 更新処理
+		if (screen1_posx >= 0)
+		{
+			screen1_posx = 0;
+			screen2_posx = 600;
+		}
+		if (screen1_posx <= -600)
+		{
+			screen1_posx = -600;
+			screen2_posx = 0;
+		}
+		
+		//当たり判定
+		if (playerPosX <= x + size && x <= playerPosX + size && playerPosY <= y + size && y <= playerPosY + size)
+		{
+			flag = 1;
+		}
+		else
+		{
+			flag = 0;
+		}
+		if (playerPosX >= scroll_line_x+16)
+		{
+			scroll_line_x = scroll_line_x + moveSpeed;
+		}
+
+
+		// 描画処理
+		//背景
+		DrawGraph(world_x-scroll_x, 0, screen1, true);
+		DrawGraph(world_x + 600 - scroll_x, 0, screen2, true);
+
+		if (flag == 0)
+		{
+			DrawGraph(x - size, y - size, enn1, true);
+			DrawGraph(playerPosX - size, playerPosY - size, enn, true);
+		}
+		else
+		{
+			DrawGraph(x - size, y - size, hitenn, true);
+			DrawGraph(playerPosX - size, playerPosY - size, hitenn1, true);
+		}
+		DrawFormatString(0, 40, GetColor(150, 150, 0), "当たり判定[%d]", flag);
+		DrawFormatString(0, 60, GetColor(150, 150, 0), "速さ[%lf]", moveSpeed);
+		DrawFormatString(0, 80, GetColor(150, 150, 0), "右フラッグ[%d]", screen_flag_rigth);
+		DrawFormatString(0, 100, GetColor(150, 150, 0), "player_x[%d]", playerPosX);
+		DrawFormatString(0, 120, GetColor(150, 150, 0), "x[%d]", screen1_posx);
+		DrawFormatString(0, 140, GetColor(150, 150, 0), "x[%d]", screen2_posx);
+		DrawFormatString(400, 10, GetColor(0, 0, 0), "world_x : %d", world_x);
+		DrawFormatString(400, 30, GetColor(0, 0, 0), "scroll_x : %d", scroll_x);
+		DrawLine(scroll_line_x, 0,scroll_line_x,scroll_line_y, GetColor(0, 0, 0));
+
+		//---------  ここまでにプログラムを記述  ---------//
+		// (ダブルバッファ)裏面
+		ScreenFlip();	
+
+		// 20ミリ秒待機(疑似60FPS)
+		WaitTimer(20);
+
+		// Windowsシステムからくる情報を処理する
+		if (ProcessMessage() == -1)
+		{
+			break;
+		}
+
+		// ESCキーが押されたらループから抜ける
+		if (CheckHitKey(KEY_INPUT_ESCAPE) == 1)
+		{
+			break;
+		}
+
+	}
+		DeleteGraph(enn);
+		DeleteGraph(enn1);
+		DeleteGraph(hitenn);
+		DeleteGraph(hitenn1);
+		DeleteGraph(screen1);
+		DeleteGraph(screen2);
+		DeleteGraph(screen3);
+	// Dxライブラリ終了処理
+	DxLib_End();
+
+	// 正常終了
+	return 0;
+}

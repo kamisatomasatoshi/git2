@@ -1,0 +1,7 @@
+﻿  cross配布用.cpp
+C:\Users\luri_\OneDrive\デスクトップ\数学\MT2_BaseProject\MT2_BaseProject\MT2_BaseProject\cross配布用.cpp(92,50): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\数学\MT2_BaseProject\MT2_BaseProject\MT2_BaseProject\cross配布用.cpp(92,33): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\数学\MT2_BaseProject\MT2_BaseProject\MT2_BaseProject\cross配布用.cpp(100,54): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\数学\MT2_BaseProject\MT2_BaseProject\MT2_BaseProject\cross配布用.cpp(100,35): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\数学\MT2_BaseProject\MT2_BaseProject\MT2_BaseProject\cross配布用.cpp(107,57): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  MT2_BaseProject.vcxproj -> C:\Users\luri_\OneDrive\デスクトップ\数学\MT2_BaseProject\MT2_BaseProject\Debug\MT2_BaseProject.exe

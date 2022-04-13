@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\第二回チーム制作\二回目チーム制作\main.cpp(1,10): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory

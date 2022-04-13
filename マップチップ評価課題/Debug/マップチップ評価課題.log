@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\マップチップ評価課題\main.cpp(152,19): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\マップチップ評価課題\main.cpp(232,36): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\マップチップ評価課題\main.cpp(251,36): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\マップチップ評価課題\main.cpp(270,36): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\マップチップ評価課題\main.cpp(289,36): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  マップチップ評価課題.vcxproj -> C:\Users\luri_\OneDrive\デスクトップ\マップチップ評価課題\Debug\マップチップ評価課題.exe

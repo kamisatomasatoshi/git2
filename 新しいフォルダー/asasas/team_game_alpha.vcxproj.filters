@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル\bgm">
+      <UniqueIdentifier>{bac72240-5649-4810-95f8-a6d0be2be69c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="リソース ファイル\Resource">
+      <UniqueIdentifier>{a1e5cfa6-a669-402f-9470-b18370db011b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="struct.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="bgm\main_bgm.mp3">
+      <Filter>リソース ファイル\bgm</Filter>
+    </Media>
+    <Media Include="bgm\button_sound.wav">
+      <Filter>リソース ファイル\bgm</Filter>
+    </Media>
+    <Media Include="bgm\electric_shock.wav">
+      <Filter>リソース ファイル\bgm</Filter>
+    </Media>
+    <Media Include="bgm\key_pickup.wav">
+      <Filter>リソース ファイル\bgm</Filter>
+    </Media>
+    <Media Include="bgm\gate.mp3">
+      <Filter>リソース ファイル\bgm</Filter>
+    </Media>
+    <Media Include="bgm\Jump15.wav">
+      <Filter>リソース ファイル\bgm</Filter>
+    </Media>
+    <Media Include="bgm\goal_open.wav">
+      <Filter>リソース ファイル\bgm</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resource\arrow_mix.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\GAMECLEAR.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\GAMEOVER.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\goa_mix.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\heart.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\image.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\mapchip_mix .png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\player_ko.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\player_stay.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\player_walk.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\Razor_v2.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\Razor-sheet.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\switch.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+    <Image Include="Resource\title.png">
+      <Filter>リソース ファイル\Resource</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

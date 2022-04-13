@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(201,59): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(202,62): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(222,37): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(222,58): warning C4244: '-=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(241,28): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(254,25): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(392,80): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(392,41): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(478,85): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(478,46): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(482,109): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(482,76): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(482,43): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(482,23): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(489,56): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(489,42): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(489,28): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(490,69): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(490,55): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(490,30): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(233,32): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(472,32): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(561,11): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(562,11): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\main.cpp(565,11): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+  演出王再提出.vcxproj -> C:\Users\luri_\OneDrive\デスクトップ\演出王再提出\演出王再提出\Debug\演出王再提出.exe

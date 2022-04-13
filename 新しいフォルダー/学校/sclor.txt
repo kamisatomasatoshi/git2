@@ -1,0 +1,2 @@
+world_x -= moveSpeed * move;
+world_x += moveSpeed * move;
