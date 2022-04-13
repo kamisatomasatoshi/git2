@@ -81,7 +81,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 		CW_USEDEFAULT,							//表示Y座標（OSに任せる）
 		wrc.right - wrc.left,					//ウィンドウ横幅
 		wrc.bottom - wrc.top,					//ウィンドウ縦幅
-		nullprt,								//親ウィンドウハンドル
+		nullptr,								//親ウィンドウハンドル
 		nullptr,								//メニューハンドル
 		w.hInstance,							//呼び出しアプリケーションハンドル
 		nullptr);								//オプション
